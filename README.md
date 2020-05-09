@@ -56,6 +56,8 @@ I have only trained it with 18 epochs instead of 30 epochs in the original paper
 
 3. #### Create following folders and download the [pretrained model](https://drive.google.com/file/d/10Ku_G2FABjtEjWp3XWVmuguPkpbaTGV4/view?usp=sharing) to work_space/final
 
+4. From the main Lighthead-RCNN-in-Pytorch0.4.1 directory run the script [download_coco_data.sh](scripts/download_coco_data.sh) to download and extract the coco dataset.
+
 ```shell
 Lighthead-RCNN-Pytorch
 ├── functions
@@ -72,6 +74,7 @@ Lighthead-RCNN-Pytorch
 │   ├── final
 │   ├── save
 ```
+
 
 ### Installation 
 
