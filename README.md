@@ -52,11 +52,11 @@ I have only trained it with 18 epochs instead of 30 epochs in the original paper
 
 2. #### Prepare COCO dataset.
 
-1. It is recommended to symlink the dataset root to `$Lighthead-RCNN-Pytorch/data`.
+- It is recommended to symlink the dataset root to `$Lighthead-RCNN-Pytorch/data`.
 
-2. Create following folders and download the [pretrained model](https://drive.google.com/file/d/10Ku_G2FABjtEjWp3XWVmuguPkpbaTGV4/view?usp=sharing) to work_space/final
+- Create following folders and download the [pretrained model](https://drive.google.com/file/d/10Ku_G2FABjtEjWp3XWVmuguPkpbaTGV4/view?usp=sharing) to work_space/final
 
-3. From the main Lighthead-RCNN-in-Pytorch0.4.1 directory run the script [download_coco_data.sh](scripts/download_coco_data.sh) to download and extract the coco dataset.
+- From the main Lighthead-RCNN-in-Pytorch0.4.1 directory run the script [download_coco_data.sh](scripts/download_coco_data.sh) to download and extract the coco dataset.
 
 ```shell
 Lighthead-RCNN-Pytorch
