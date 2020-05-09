@@ -81,6 +81,7 @@ Lighthead-RCNN-Pytorch
     - Python 3.6 (Conda Environment has been used)
     - Cuda 9.0
     - GCC 5 (GCC 6 does not work)
+    - GPU Tesla K80
 
 - What will not work?
     - I tried Python3.5, Python3.7 and Python2.7. None of these python versions worked for me.
