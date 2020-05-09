@@ -46,7 +46,7 @@ I have only trained it with 18 epochs instead of 30 epochs in the original paper
 1. #### Clone the this repository.
 
    ```shell
-   git clone https://github.com/TreB1eN/Lighthead-RCNN-in-Pytorch0.4.1.git
+   git clone https://github.com/mmaaz60/Lighthead-RCNN-in-Pytorch0.4.1.git
    cd Lighthead-RCNN-in-Pytorch0.4.1/
    ```
 
